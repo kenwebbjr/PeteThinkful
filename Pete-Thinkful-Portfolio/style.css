@@ -58,10 +58,10 @@ hr {
     border-color: #003049;
 }
 
-ul,
-ol,
-li {
+footer {
   text-align: center;
+  width: 100%;
+  }
 }
 
 a:link    { color: #d62828;  }
