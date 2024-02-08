@@ -72,7 +72,7 @@ ul {
 }
 
 li {
-  float:left;
+  display:inline-block;
 }
 
 a:link    { color: #d62828;  }
