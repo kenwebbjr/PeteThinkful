@@ -63,9 +63,12 @@ hr {
 }
 
 ul,
-ol,
-li {
+ol {
   text-align: center;
+}
+
+li {
+  float:left;
 }
 
 a:link    { color: #d62828;  }
