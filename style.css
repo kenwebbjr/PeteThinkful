@@ -64,10 +64,12 @@ hr {
 
 div ol {
   text-align: center;
+  list-style-position: inside;
 }
 
 div ul {
-  text-align: center;;
+  text-align: center;
+  list-style-position: inside;
 }
 
 li {
