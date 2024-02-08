@@ -63,18 +63,15 @@ hr {
 }
 
 div ol {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
 
 div ul {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
 
-li {
-  justify-content: center ;
-}
 
 a:link    { color: #d62828;  }
 a:visited { color: #d62828;   }
