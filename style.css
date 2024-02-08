@@ -64,14 +64,15 @@ hr {
 
 div ol {
   text-align: left;
-  list-style-position: inside;
 }
 
 div ul {
   text-align: left;
-  list-style-position: inside;
 }
 
+li {
+  justify-content: left ;
+}
 
 a:link    { color: #d62828;  }
 a:visited { color: #d62828;   }
