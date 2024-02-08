@@ -62,9 +62,13 @@ hr {
     border-color: #003049;
 }
 
-ul,
 ol {
   text-align: center;
+}
+
+ul {
+  display:flex;
+  justify-content: center;
 }
 
 li {
