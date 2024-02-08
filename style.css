@@ -67,12 +67,11 @@ ol {
 }
 
 ul {
-  display:flex;
-  justify-content: center;
+  text-align: center;;
 }
 
 li {
-  display:inline-block;
+  justify-content: center ;
 }
 
 a:link    { color: #d62828;  }
