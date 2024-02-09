@@ -20,6 +20,10 @@ nav {
     text-align: center;
 }
 
+nav a {
+    padding: 14px 16px;
+}  
+
 nav ul {
     list-style: none;
     display: flex;
