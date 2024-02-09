@@ -18,7 +18,17 @@ h3 {
 
 nav {
     text-align: center;
-    padding:20px 32px 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    margin: 10px;
+    padding: 10px;
 }
 
 footer {
